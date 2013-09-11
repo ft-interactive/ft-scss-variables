@@ -1,0 +1,73 @@
+// Primary palette
+$ft-color-lightpink:           #FFF9F1 !default;
+$ft-color-primarypink:         #FFF1E0 !default;
+$ft-color-linkblue-text:       #2e6e9e !default;
+$ft-color-linkblue-fill:       #4781aa !default;
+$ft-color-claret-text:         #9b164f !default;
+$ft-color-claret-fill:         #9e2f50 !default;
+$ft-color-skyline:             #e3dfca !default;
+$ft-color-orange:              #d66d06 !default;
+$ft-color-black:               #000000 !default;
+$ft-color-white:               #ffffff !default;
+$ft-color-grey:                #cccccc !default;
+
+// Greys
+$ft-color-warmgrey1:           #a7a59b !default;
+$ft-color-warmgrey2:           #74736c !default;
+$ft-color-coolgrey1:           #777777 !default;
+$ft-color-coolgrey2:           #dfded8 !default;
+$ft-color-darkgrey:            #43423e !default;
+
+// Tints
+$ft-color-tint1:               #f6e9d8 !default;
+$ft-color-tint2:               #e9decf !default;
+$ft-color-tint3:               #cec6b9 !default; // Text only
+
+// Red/Green
+$ft-color-red:                 #cc0000 !default;
+$ft-color-green:               #eed485 !default;
+
+// Charts colors
+$ft-color-chart-red:           #c36256 !default;
+$ft-color-chart-orange:        #eda45e !default;
+$ft-color-chart-coffee:        #94826b !default;
+$ft-color-chart-yellow:        #eed485 !default;
+$ft-color-chart-turquoise:     #819e9a !default;
+$ft-color-chart-blue:          #75a5c2 !default;
+$ft-color-chart-purple:        #736e7e !default;
+$ft-color-chart-eggplant:      #936971 !default;
+$ft-color-chart-platinum:      #c1b8b4 !default;
+$ft-color-white:               #ffffff !default;
+
+// Red chart tints
+$ft-color-redtint1:            #b1493f !default;
+$ft-color-redtint2:            #c36256 !default;
+$ft-color-redtint3:            #d17c70 !default;
+$ft-color-redtint4:            #df9c92 !default;
+$ft-color-redtint5:            #ebbcb3 !default;
+
+// Blue chart tints
+$ft-color-bluetint1:           #598caf !default;
+$ft-color-bluetint2:           #75a5c2 !default;
+$ft-color-bluetint3:           #8ab5cd !default;
+$ft-color-bluetint4:           #a9cadc !default;
+$ft-color-bluetint5:           #bcd7e5 !default;
+
+$ft-color-black-text:          #000000 !default;
+$ft-color-black-fill:          #000000 !default;
+
+// Grid
+$ft-grid-column-count: 14;
+$ft-grid-gutter-width: 8px;
+$ft-grid-column-width: 62px;
+
+// borders/rules thicknesses
+$ft-rule-thickness-thick:      8px;
+$ft-rule-thickness-thin:       1px;
+
+// border/rule styles
+$ft-rule-style-thindotted:     $ft-rule-thickness-thin dotted $ft-color-warmgrey2;
+$ft-rule-style-thinlight:      $ft-rule-thickness-thin solid $ft-color-tint2;
+$ft-rule-style-thinheavy:      $ft-rule-thickness-thin solid $ft-color-warmgrey1;
+$ft-rule-style-thicklight:     $ft-rule-thickness-thick solid $ft-color-tint2;
+$ft-rule-style-thickheavy:     $ft-rule-thickness-thick solid $ft-color-warmgrey1;

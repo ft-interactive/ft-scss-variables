@@ -39,6 +39,12 @@ $ft-color-chart-eggplant:      #936971 !default;
 $ft-color-chart-platinum:      #c1b8b4 !default;
 $ft-color-white:               #ffffff !default;
 
+// Line chart colors - semantic names
+$ft-color-chart-line1: #db7365;
+$ft-color-chart-line2: $ft-color-chart-blue;
+$ft-color-chart-line3: #a6a471;
+$ft-color-chart-line4: $ft-color-chart-orange;
+ 
 // Red chart tints
 $ft-color-redtint1:            #b1493f !default;
 $ft-color-redtint2:            #c36256 !default;
